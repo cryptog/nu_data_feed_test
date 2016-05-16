@@ -1,0 +1,57 @@
+{
+    "custodians" : [
+        {
+            "address" : "B9gXptkoqAApF3AFrQyhUbhSzvuEudxupt",
+            "amount" : 90.0
+        },
+        {
+            "address" : "BACKPAcVxFXfRXCmUBFWZjcAw79ZyJAAUA",
+            "amount" : 400.0
+        }
+    ],
+    "parkrates" : [
+        {
+            "unit" : "B",
+            "rates" : [
+                {
+                    "blocks" : 2048,
+                    "rate" : 0.00062301
+                },
+                {
+                    "blocks" : 4096,
+                    "rate" : 0.00124603
+                },
+                {
+                    "blocks" : 8192,
+                    "rate" : 0.00249205
+                },
+                {
+                    "blocks" : 16384,
+                    "rate" : 0.00498411
+                },
+                {
+                    "blocks" : 32768,
+                    "rate" : 0.00623013
+                },
+                {
+                    "blocks" : 65536,
+                    "rate" : 0.00623013
+                },
+                {
+                    "blocks" : 131072,
+                    "rate" : 0.00498411
+                }
+            ]
+        }
+    ],
+    "motions" : [
+        "685bcc7211db2536734042c65d78d150348a3ec5",
+        "f1a5bee323f6f3100e962ad41a0e9f9678930500",
+        "b59c750a307160b4f1cb5bedfd6027e17b5a0ab4",
+        "9d3538c6e95e0cfeae7afeeb5e82874a25040276"
+    ],
+    "fees" : {
+        "B" : 0.01,
+        "S" : 1.0
+    }
+}
